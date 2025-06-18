@@ -25,43 +25,42 @@
 ## 팀원 소개
 [목차로 돌아가기](#목차)
 
-https://github.com/ChunBae20
-### 👤 ChunBae20  
-[🔗 GitHub 프로필 바로가기](https://github.com/ChunBae20)
+
 <table>
   <tr>
     <td align="center">
       <a href="https://github.com/kookin09">
         <img src="https://avatars.githubusercontent.com/kookin09" width="100"/><br/>
-        <sub><b>kookin09</b></sub>
+        🔗 <sub><b>kookin09</b></sub>
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/unity9Parkjaehyun">
         <img src="https://avatars.githubusercontent.com/unity9Parkjaehyun" width="100"/><br/>
-        <sub><b>unity9Parkjaehyun</b></sub>
+        🔗 <sub><b>unity9Parkjaehyun</b></sub>
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/ChunBae20">
         <img src="https://avatars.githubusercontent.com/ChunBae20" width="100"/><br/>
-        <sub><b>ChunBae20</b></sub>
+        🔗 <sub><b>ChunBae20</b></sub>
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/DH-C1">
         <img src="https://avatars.githubusercontent.com/DH-C1" width="100"/><br/>
-        <sub><b>DH-C1</b></sub>
+        🔗 <sub><b>DH-C1</b></sub>
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/sunyeji">
         <img src="https://avatars.githubusercontent.com/sunyeji" width="100"/><br/>
-        <sub><b>sunyeji</b></sub>
+        🔗 <sub><b>sunyeji</b></sub>
       </a>
     </td>
   </tr>
 </table>
+
 
 ## 기술 스택
 [목차로 돌아가기](#목차)
