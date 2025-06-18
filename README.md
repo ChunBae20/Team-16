@@ -25,6 +25,32 @@
 ## 팀원 소개
 [목차로 돌아가기](#목차)
 
+https://github.com/ChunBae20
+### 👤 ChunBae20  
+[🔗 GitHub 프로필 바로가기](https://github.com/ChunBae20)
+<div align="left">
+  <a href="https://github.com/ChunBae20">
+    <img src="https://avatars.githubusercontent.com/ChunBae20" width="100" style="border-radius: 50%;"/><br/>
+    <b>ChunBae20</b>
+  </a>
+</div>
+
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/ChunBae20">
+        <img src="https://avatars.githubusercontent.com/ChunBae20" width="100"/><br/>
+        <sub><b>ChunBae20</b></sub>
+      </a>
+    </td>
+    <a href="https://github.com/ChunBae20">
+        <img src="https://avatars.githubusercontent.com/ChunBae20" width="100"/><br/>
+        <sub><b>ChunBae20</b></sub>
+    <!-- 다른 팀원이 있다면 여기에 추가 -->
+  </tr>
+</table>
+
 ## 기술 스택
 [목차로 돌아가기](#목차)
 
