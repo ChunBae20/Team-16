@@ -31,7 +31,8 @@
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-<img src="https://github.com/user-attachments/assets/c7f5fece-6a4c-41fc-b51a-908d627984af" width="150"/>
+<img src="https://github.com/user-attachments/assets/c7f5fece-6a4c-41fc-b51a-908d627984af" width="200" style="margin-top:-10px;" />
+
 
 
 
